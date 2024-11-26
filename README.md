@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://dev-theo.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://theosnote.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-theo963000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:theo963000@gmail.com) 
 
 ## 💬 About me
